@@ -1,0 +1,45 @@
+.main-division {
+    margin : 20px 2px;
+}
+
+.profile-division {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.search-division {
+    margin-top : 30px;
+    margin-bottom : 10px;
+}
+
+.list-division {
+    margin-top : 20px;
+}
+
+ul {
+    margin: 2.5px;
+    padding: 0;
+    list-style-type: none;
+}
+li {
+    margin: 5px;
+    padding: 4px;
+    background-color: white;
+}
+p {
+    padding-left: 5%;
+    text-align: left;
+    margin : 2px;
+}
+.grid-item {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-ul {
+    color:  #30343b;;
+    text-decoration: none;
+}
+.icon-keyarrow {
+    max-width: 10px;
+}

@@ -1,0 +1,10 @@
+.text-input {
+    margin-left: 100px;
+    background-color: white;
+}
+
+.input {
+    border: solid 1px black;
+    border-radius: 2px;
+    background-color: white;
+}

@@ -1,1 +1,15 @@
+.left {
+  height: 100%;
+  width: 20%;
+  background-color: #bee6d2;
+  position: fixed;
+  z-index: 1;
+  overflow: auto;
+}
 
+.right {
+  height: 100%;
+  width: 80% auto;
+  background-color: #d3bfe3;
+  margin-left: 220px;
+}
